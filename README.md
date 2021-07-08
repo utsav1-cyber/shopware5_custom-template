@@ -1,0 +1,1 @@
+# shopware5_custom-template
